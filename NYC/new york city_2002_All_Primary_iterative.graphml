@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n378" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3607</data></node>
+<node id="n612" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5907</data></node>
+<node id="n6787" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1102</data></node>
+<node id="n7015" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1352</data></node>
+<node id="n7016" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1353</data></node>
+<node id="n7349" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1719</data></node>
+<node id="n7421" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1795</data></node>
+<node id="n7450" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1828</data></node>
+<node id="n7559" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1946</data></node>
+<node id="n7606" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1996</data></node>
+<node id="n7834" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2250</data></node>
+<node id="n7919" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2346</data></node>
+<node id="n7920" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2347</data></node>
+<node id="n8082" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2525</data></node>
+<node id="n8083" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2527</data></node>
+<node id="n8200" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2657</data></node>
+<node id="n8440" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2917</data></node>
+<node id="n8839" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3353</data></node>
+<node id="n8840" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3354</data></node>
+<node id="n8944" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3463</data></node>
+<node id="n9486" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4071</data></node>
+<node id="n9761" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4369</data></node>
+<node id="n10342" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5004</data></node>
+<node id="n10527" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5217</data></node>
+<node id="n10528" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5218</data></node>
+<node id="n10615" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5313</data></node>
+<node id="n10618" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5316</data></node>
+<node id="n11502" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-903</data></node>
+<node id="n11504" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-904</data></node>
+<node id="n16895" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-10288</data><data key="startup">0</data></node>
+<node id="n17140" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1721</data><data key="startup">1</data></node>
+<node id="n25556" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1083</data><data key="startup">1</data></node>
+<node id="n26581" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-11880</data><data key="startup">0</data></node>
+<node id="n26649" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1195</data><data key="startup">1</data></node>
+<node id="n27116" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-12413</data><data key="startup">0</data></node>
+<node id="n27448" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1339</data><data key="startup">1</data></node>
+<node id="n27653" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1559</data><data key="startup">1</data></node>
+<node id="n27690" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1598</data><data key="startup">1</data></node>
+<node id="n27709" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1619</data><data key="startup">1</data></node>
+<node id="n27771" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1686</data><data key="startup">1</data></node>
+<node id="n27946" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1872</data><data key="startup">1</data></node>
+<node id="n27992" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-1924</data><data key="startup">1</data></node>
+<node id="n28096" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2036</data><data key="startup">1</data></node>
+<node id="n28178" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2121</data><data key="startup">1</data></node>
+<node id="n28329" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2286</data><data key="startup">1</data></node>
+<node id="n28600" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2579</data><data key="startup">1</data></node>
+<node id="n28652" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2642</data><data key="startup">1</data></node>
+<node id="n28747" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2742</data><data key="startup">1</data></node>
+<node id="n29046" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-3068</data><data key="startup">1</data></node>
+<node id="n29258" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-3296</data><data key="startup">0</data></node>
+<node id="n29858" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-3944</data><data key="startup">1</data></node>
+<node id="n29907" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-3995</data><data key="startup">1</data></node>
+<node id="n29973" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-4065</data><data key="startup">1</data></node>
+<node id="n29975" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-4067</data><data key="startup">1</data></node>
+<node id="n30144" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">19950000</data><data key="nodeid">organization-4415</data><data key="startup">1</data></node>
+<edge id="e288687" source="n16895" target="n28747" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e291529" source="n26581" target="n30144" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e292079" source="n27116" target="n29973" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e294473" source="n6787" target="n26649" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e295770" source="n7015" target="n27448" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e295771" source="n7016" target="n27448" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e297587" source="n7349" target="n27653" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e297870" source="n7421" target="n27690" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e298010" source="n7450" target="n27709" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e298463" source="n7559" target="n27771" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e298681" source="n7606" target="n17140" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e299875" source="n7834" target="n27946" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e299876" source="n7834" target="n29858" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e300333" source="n7919" target="n27992" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e300334" source="n7920" target="n27992" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e301210" source="n8082" target="n28096" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e301216" source="n8083" target="n28096" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e301791" source="n8200" target="n28178" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e302955" source="n8440" target="n28329" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e304688" source="n8839" target="n28600" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e304689" source="n8840" target="n28600" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e305124" source="n8944" target="n28652" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e305779" source="n378" target="n28747" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e307825" source="n9486" target="n29046" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e308833" source="n9761" target="n29258" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e311994" source="n10527" target="n29907" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e311995" source="n10528" target="n29907" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e312264" source="n10615" target="n29973" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e312267" source="n10618" target="n29975" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e313769" source="n612" target="n10342" label="MENTORED"><data key="label">MENTORED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e314874" source="n11502" target="n25556" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e314880" source="n11504" target="n25556" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+</graph>
+</graphml>

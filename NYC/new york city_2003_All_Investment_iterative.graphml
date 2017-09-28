@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n10596" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5290</data></node>
+<node id="n27502" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20030000</data><data key="nodeid">organization-1398</data><data key="startup">1</data></node>
+<node id="n29956" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20030000</data><data key="nodeid">organization-4047</data><data key="startup">1</data></node>
+<node id="n32903" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-7388</data><data key="startup">0</data></node>
+<edge id="e293483" source="n32903" target="n27502" label="ACCELERATED_INCUBATED"><data key="label">ACCELERATED_INCUBATED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2003</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e312184" source="n10596" target="n29956" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2003</data><data key="edges_date_start">20000000</data></edge>
+</graph>
+</graphml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n25182" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">0</data><data key="nodeid">32d1ca81-4f84-409c-bf5d-ba751cbb98a0</data></node>
+<node id="n41699" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20140101</data><data key="startup">-1</data><data key="date_start">20140101</data><data key="nodeid">59e4a360-cdf7-4d00-baad-58b3ce0c927a</data></node>
+<edge id="e288083" source="n25182" target="n41699" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20140101</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">20140101</data></edge>
+</graph>
+</graphml>

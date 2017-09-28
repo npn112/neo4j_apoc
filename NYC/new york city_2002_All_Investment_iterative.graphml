@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n16895" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-10288</data><data key="startup">0</data></node>
+<node id="n26581" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-11880</data><data key="startup">0</data></node>
+<node id="n27116" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-12413</data><data key="startup">0</data></node>
+<node id="n28747" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-2742</data><data key="startup">1</data></node>
+<node id="n29973" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20020000</data><data key="nodeid">organization-4065</data><data key="startup">1</data></node>
+<node id="n30144" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">19950000</data><data key="nodeid">organization-4415</data><data key="startup">1</data></node>
+<edge id="e288687" source="n16895" target="n28747" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e291529" source="n26581" target="n30144" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20020000</data></edge>
+<edge id="e292079" source="n27116" target="n29973" label="INVESTED_IN"><data key="label">INVESTED_IN</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">20000000</data></edge>
+</graph>
+</graphml>

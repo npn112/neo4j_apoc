@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n6821" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1137</data></node>
+<node id="n7818" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2233</data></node>
+<node id="n9791" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4401</data></node>
+<node id="n9809" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4420</data></node>
+<node id="n12215" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-29175</data></node>
+<node id="n35125" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-1638</data></node>
+<node id="n35257" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2291</data></node>
+<node id="n35337" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2725</data></node>
+<node id="n35338" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2726</data></node>
+<node id="n35341" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2756</data></node>
+<edge id="e294656" source="n6821" target="n35125" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19960000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">19920000</data></edge>
+<edge id="e299799" source="n7818" target="n35341" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19920000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">19890000</data></edge>
+<edge id="e302956" source="n12215" target="n35338" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20070000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">20030000</data></edge>
+<edge id="e308954" source="n9791" target="n35257" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19880000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">19840000</data></edge>
+<edge id="e309057" source="n9809" target="n35337" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">19970000</data></edge>
+<edge id="e309058" source="n9809" target="n35338" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">19970000</data></edge>
+</graph>
+</graphml>

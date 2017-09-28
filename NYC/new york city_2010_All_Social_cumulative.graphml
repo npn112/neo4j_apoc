@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n22" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">1fedccaa-0015-4c09-8740-72d68ab17d2f</data></node>
+<node id="n3640" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">7bfa5988-b61f-4d75-8092-74b278c2b84e</data></node>
+<node id="n5580" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">a968d08e-9bbb-4bca-9075-0e2db82f48a1</data></node>
+<node id="n16725" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-8747</data><data key="startup">0</data></node>
+<node id="n16881" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">0</data><data key="nodeid">a67aead7-d871-4023-9b2d-9264814b0fe3</data></node>
+<node id="n25182" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">0</data><data key="nodeid">32d1ca81-4f84-409c-bf5d-ba751cbb98a0</data></node>
+<node id="n41455" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20150801</data><data key="startup">-1</data><data key="date_start">20150501</data><data key="nodeid">d3eefcad-ee25-4534-8f02-c5c15b640a5d</data></node>
+<node id="n41614" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20150801</data><data key="startup">-1</data><data key="date_start">20150801</data><data key="nodeid">97b257b6-2215-4dda-9e7e-e3b927e2e123</data></node>
+<node id="n41620" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20160501</data><data key="startup">-1</data><data key="date_start">20160501</data><data key="nodeid">dce1abeb-ab93-449f-b49b-015481e24468</data></node>
+<node id="n41621" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20151101</data><data key="startup">-1</data><data key="date_start">20150401</data><data key="nodeid">b690a240-6bec-44ab-83a8-bb07ad82e2dc</data></node>
+<node id="n41697" labels=":Event:All"><data key="labels">:Event:All</data><data key="startup">0</data><data key="date_start">20150101</data><data key="ipo_date">-1</data><data key="nodeid">organization-8449</data><data key="date_end">20111101</data></node>
+<node id="n41699" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20140101</data><data key="startup">-1</data><data key="date_start">20140101</data><data key="nodeid">59e4a360-cdf7-4d00-baad-58b3ce0c927a</data></node>
+<node id="n41702" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20111001</data><data key="startup">-1</data><data key="date_start">20111001</data><data key="nodeid">61071af3-27e5-47fe-9435-5c547336958c</data></node>
+<edge id="e288071" source="n22" target="n41697" label="ATTENDED"><data key="label">ATTENDED</data><data key="edges_date_start">-1</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2000</data></edge>
+<edge id="e288083" source="n25182" target="n41699" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20140101</data><data key="region">new york city</data><data key="min_year">2001</data><data key="edges_date_start">20140101</data></edge>
+<edge id="e288108" source="n3640" target="n41697" label="ATTENDED"><data key="label">ATTENDED</data><data key="edges_date_start">-1</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2000</data></edge>
+<edge id="e288109" source="n3640" target="n41697" label="MEMBER_OF"><data key="label">MEMBER_OF</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2000</data><data key="edges_date_start">20150101</data></edge>
+<edge id="e288121" source="n16881" target="n41702" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20121001</data><data key="region">new york city</data><data key="min_year">2010</data><data key="edges_date_start">20111001</data></edge>
+<edge id="e288123" source="n5580" target="n41697" label="ATTENDED"><data key="label">ATTENDED</data><data key="edges_date_start">-1</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2000</data></edge>
+<edge id="e293651" source="n16725" target="n41614" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20150801</data><data key="region">new york city</data><data key="min_year">2008</data><data key="edges_date_start">20150801</data></edge>
+<edge id="e293652" source="n16725" target="n41621" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20151101</data><data key="region">new york city</data><data key="min_year">2008</data><data key="edges_date_start">20150401</data></edge>
+<edge id="e293653" source="n16725" target="n41455" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20150801</data><data key="region">new york city</data><data key="min_year">2008</data><data key="edges_date_start">20150501</data></edge>
+<edge id="e293654" source="n16725" target="n41620" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20160501</data><data key="region">new york city</data><data key="min_year">2008</data><data key="edges_date_start">20160501</data></edge>
+</graph>
+</graphml>

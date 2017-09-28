@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n3515" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-28219</data></node>
+<node id="n6592" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-26200</data></node>
+<node id="n6756" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1068</data></node>
+<node id="n6915" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1237</data></node>
+<node id="n7071" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1418</data></node>
+<node id="n7136" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-1486</data></node>
+<node id="n8247" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2707</data></node>
+<node id="n8535" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3026</data></node>
+<node id="n8725" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3233</data></node>
+<node id="n8896" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3411</data></node>
+<node id="n9208" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3755</data></node>
+<node id="n9333" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3895</data></node>
+<node id="n9395" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-3965</data></node>
+<node id="n9493" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4078</data></node>
+<node id="n9827" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4441</data></node>
+<node id="n10336" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-4997</data></node>
+<node id="n12168" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-20747</data></node>
+<node id="n12216" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-29308</data></node>
+<node id="n23837" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2064</data></node>
+<node id="n25185" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-10202</data><data key="startup">0</data></node>
+<node id="n28880" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20060000</data><data key="nodeid">organization-2887</data><data key="startup">1</data></node>
+<node id="n31764" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-6222</data><data key="startup">0</data></node>
+<node id="n35042" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-1166</data></node>
+<node id="n35066" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="startup">-1</data><data key="date_start">-1</data><data key="nodeid">university-128</data><data key="date_end">-1</data></node>
+<node id="n35214" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2090</data></node>
+<node id="n35220" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2129</data></node>
+<node id="n35236" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2164</data></node>
+<node id="n35250" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2253</data></node>
+<node id="n35277" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2430</data></node>
+<node id="n35290" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2499</data></node>
+<node id="n35348" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2799</data></node>
+<node id="n35354" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-2830</data></node>
+<node id="n35387" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-3111</data></node>
+<node id="n35388" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">university-3112</data></node>
+<node id="n35461" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="startup">-1</data><data key="date_start">-1</data><data key="nodeid">university-458</data><data key="date_end">-1</data></node>
+<node id="n35509" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="startup">-1</data><data key="date_start">-1</data><data key="nodeid">university-650</data><data key="date_end">-1</data></node>
+<node id="n35517" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="startup">-1</data><data key="date_start">-1</data><data key="nodeid">university-670</data><data key="date_end">-1</data></node>
+<edge id="e288207" source="n25185" target="n28880" label="ACCELERATED_INCUBATED"><data key="label">ACCELERATED_INCUBATED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20060000</data></edge>
+<edge id="e294304" source="n6756" target="n35387" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20060000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20040000</data></edge>
+<edge id="e294305" source="n6756" target="n35388" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20060000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20040000</data></edge>
+<edge id="e295137" source="n6915" target="n35236" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20010000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19970000</data></edge>
+<edge id="e296099" source="n7071" target="n35461" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19930000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19890000</data></edge>
+<edge id="e296535" source="n7136" target="n35509" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e299127" source="n12168" target="n35517" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20090000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20060000</data></edge>
+<edge id="e301619" source="n6592" target="n23837" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20040000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20030000</data></edge>
+<edge id="e302065" source="n8247" target="n23837" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20010000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e302586" source="n3515" target="n31764" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19970000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19930000</data></edge>
+<edge id="e303039" source="n12216" target="n35387" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19970000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19960000</data></edge>
+<edge id="e303482" source="n8535" target="n35277" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19910000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19860000</data></edge>
+<edge id="e304304" source="n8725" target="n35066" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e304924" source="n8896" target="n35220" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e306282" source="n9208" target="n35348" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20030000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19990000</data></edge>
+<edge id="e306960" source="n9333" target="n35290" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19990000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19970000</data></edge>
+<edge id="e307288" source="n9395" target="n35250" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19960000</data></edge>
+<edge id="e307843" source="n9493" target="n35214" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19990000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19940000</data></edge>
+<edge id="e309140" source="n9827" target="n35042" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">20000000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">20000000</data></edge>
+<edge id="e311186" source="n10336" target="n35354" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19950000</data><data key="region">new york city</data><data key="min_year">2006</data><data key="edges_date_start">19910000</data></edge>
+</graph>
+</graphml>

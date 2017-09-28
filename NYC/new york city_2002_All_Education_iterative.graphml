@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n7834" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2250</data></node>
+<node id="n35456" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="startup">-1</data><data key="date_start">-1</data><data key="nodeid">university-449</data><data key="date_end">-1</data></node>
+<edge id="e299878" source="n7834" target="n35456" label="STUDIED_AT"><data key="label">STUDIED_AT</data><data key="edges_date_end">19970000</data><data key="region">new york city</data><data key="min_year">2002</data><data key="edges_date_start">19930000</data></edge>
+</graph>
+</graphml>

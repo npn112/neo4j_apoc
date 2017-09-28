@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n65" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">7f69402e-8c92-42b1-b7a4-cf3b0ae80cf7</data></node>
+<node id="n21685" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">-1</data><data key="nodeid">organization-10240</data><data key="startup">0</data></node>
+<node id="n41701" labels=":Event:All"><data key="labels">:Event:All</data><data key="ipo_date">-1</data><data key="date_end">20150501</data><data key="startup">-1</data><data key="date_start">20150501</data><data key="nodeid">97828b8e-25d6-4d6c-ab19-a3f8f2b67a52</data></node>
+<edge id="e288110" source="n65" target="n21685" label="MEMBER_OF"><data key="label">MEMBER_OF</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2013</data><data key="edges_date_start">20150601</data></edge>
+<edge id="e288533" source="n21685" target="n41701" label="HOSTED"><data key="label">HOSTED</data><data key="edges_date_end">20150501</data><data key="region">new york city</data><data key="min_year">2013</data><data key="edges_date_start">20150501</data></edge>
+</graph>
+</graphml>

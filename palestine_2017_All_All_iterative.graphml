@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n35998" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">1</data><data key="date_start">20170101</data><data key="nodeid">d7ea87a9-1472-4285-a730-2567960a4903</data></node>
+<node id="n35999" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="date_start">-1</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="startup">-1</data><data key="nodeid">ff689c25-25be-42a9-bf2a-2f6bb4ec8de3</data></node>
+<edge id="e258431" source="n35999" target="n35998" label="ACCELERATED_INCUBATED"><data key="label">ACCELERATED_INCUBATED</data><data key="edges_date_end">-1</data><data key="region">palestine</data><data key="min_year">2017</data><data key="edges_date_start">20161001</data></edge>
+</graph>
+</graphml>

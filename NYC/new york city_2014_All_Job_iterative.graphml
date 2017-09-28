@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="labels" for="node" attr.name="labels" attr.type="string"/> 
+<key id="startup" for="node" attr.name="startup" attr.type="int"/> 
+<key id="nodeid" for="node" attr.name="nodeid" attr.type="string"/> 
+<key id="label" for="edge" attr.name="label" attr.type="string"/> 
+<graph id="G" edgedefault="directed">
+<node id="n7644" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2039</data></node>
+<node id="n8037" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-2475</data></node>
+<node id="n10478" labels=":People:All"><data key="labels">:People:All</data><data key="nodeid">person-5165</data></node>
+<node id="n27825" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20140000</data><data key="nodeid">organization-1745</data><data key="startup">1</data></node>
+<node id="n28062" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20140000</data><data key="nodeid">organization-1998</data><data key="startup">1</data></node>
+<node id="n29860" labels=":Organization:All"><data key="labels">:Organization:All</data><data key="ipo_date">-1</data><data key="date_end">-1</data><data key="date_start">20140000</data><data key="nodeid">organization-3946</data><data key="startup">1</data></node>
+<edge id="e298888" source="n7644" target="n27825" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2014</data><data key="edges_date_start">20140000</data></edge>
+<edge id="e298890" source="n7644" target="n27825" label="WORKED_AT"><data key="label">WORKED_AT</data><data key="edges_date_start">-1</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2014</data></edge>
+<edge id="e300900" source="n8037" target="n28062" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2014</data><data key="edges_date_start">20140000</data></edge>
+<edge id="e311845" source="n10478" target="n29860" label="FOUNDED"><data key="label">FOUNDED</data><data key="edges_date_end">-1</data><data key="region">new york city</data><data key="min_year">2014</data><data key="edges_date_start">20140000</data></edge>
+</graph>
+</graphml>
